@@ -1,22 +1,22 @@
-# [Nextra](https://nextra.vercel.app)
+After God Made Me He Said Tada Snoopy T-Shirt
 
-_Warning: this project is not production ready, API might change without notice._
+Nique design for Christmas, Valentine’s day, St. Patrick’s day, Mother’s day, Father’s day, Birthday. You can gift it for mom, dad, papa, mommy, daddy, mama, boyfriend, girlfriend, grandpa, grandma, grandfather, grandmother, husband, wife, family, teacher from Shirt [snoopy](https://hersmiles.co/product-category/snoopy/), [snoopy-god](https://hersmiles.co/product-category/snoopy-god/), snoopy-tada.
+Description:
+– 100% Printed In The USA – Ship Worldwide!
+– 5.3-ounce, 100% cotton (90/10 cotton/poly (Sport Grey)
+– Seamless double-needle 3/4 inch collar
+– Taped neck and shoulders; Tearaway label
+– Decoration type: Digital Print
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+How To Order:
+1. Select style and color
+2. Select size and quantity
+3. Click “ADD TO CART”
+4. Enter shipping and billing information
+5. Done! Simple as that!
+TIP: SHARE it with your friends, buy 2 shirts or more and you will save on shipping.
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+All shirt for him her products are made to order and proudly printed to the best standards available. They do not include embellishments, such as rhinestones or glitter.
 
-![](/public/demo.png)
-
-## Development
-
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
-
-## Themes
-
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
-
----
-
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+After God Made Me He Said Tada Snoopy T-Shirt,After God Made Me He Said Tada Snoopy T-Shirt
+Get out of : [Hersmiles](https://hersmiles.co)
